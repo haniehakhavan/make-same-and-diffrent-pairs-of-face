@@ -36,9 +36,9 @@ python main.py -d 'dataset path' -o 'output path'
 
 #### inputs of script:
 <br/>
-##### dataset_path
+dataset_path
 is the path of dataset that contains index folder and others folder
 <br/>
-##### output_path 
+output_path 
 is the path of output where two folders of match(same) and mismatch(diffrent) are going to be created
 
