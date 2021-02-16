@@ -3,8 +3,10 @@
 
 
 the code was written by python.
+<br/>
 there are two group of datasets index(diffrent faces) and others(other photos of people who where in index group)
-the code compares index group and others group and makes diffrent and same pairs of them
+<br/>
+the code compares index group and others group and makes diffrent and same pairs of them.
 <br/>
 ![python](https://img.shields.io/static/v1?label=python&message=v3.8.5&color=FCA7D5)
 ![python](https://img.shields.io/static/v1?label=build&message=passing&color=C40E71)
@@ -33,6 +35,7 @@ example of command:
 <code>python main.py -d /home/hanieh/bahar/dataset -o /home/hanieh/bahar</code>
 
 inputs of script:
+<br/>
 dataset_path is the path of dataset that contains index folder and others folder
 <br/>
 output_path is the path of output where two folders of match(same) and mismatch(diffrent) are going to be created
