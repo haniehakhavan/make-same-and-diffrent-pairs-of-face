@@ -26,17 +26,19 @@ dataset
 
 after installing python you can run the script in terminal
 
-command:
+#### command:
 ```sh
 python main.py -d 'dataset path' -o 'output path'
 ```
 
-example of command:
+#### example of command:
 <code>python main.py -d /home/hanieh/bahar/dataset -o /home/hanieh/bahar</code>
 
-inputs of script:
+#### inputs of script:
 <br/>
-dataset_path is the path of dataset that contains index folder and others folder
+##### dataset_path
+is the path of dataset that contains index folder and others folder
 <br/>
-output_path is the path of output where two folders of match(same) and mismatch(diffrent) are going to be created
+##### output_path 
+is the path of output where two folders of match(same) and mismatch(diffrent) are going to be created
 
