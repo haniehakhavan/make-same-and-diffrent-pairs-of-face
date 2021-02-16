@@ -35,7 +35,6 @@ python main.py -d 'dataset path' -o 'output path'
 <code>python main.py -d /home/hanieh/bahar/dataset -o /home/hanieh/bahar</code>
 
 #### inputs of script:
-<br/>
 dataset_path
 is the path of dataset that contains index folder and others folder
 <br/>
